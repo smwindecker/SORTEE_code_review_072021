@@ -1,7 +1,7 @@
 # Workshop materials: Developing a model for peer code review
 ## SORTEE conference July, 2021
 
-Repository for materials for the unconference and hackathan on peer code review at the Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology
+Repository for materials for the unconference and hackathan on peer code review at the [Society for Open, Reliable, and Transparent Ecology and Evolutionary Biology conference](https://www.eventbrite.co.uk/e/sortee-conference-2021-registration-154693776249)
 
 ## Unconference
 Day 3 Wednesday 14/7/21 between 03:30 UTC and 04:30 UTC

@@ -1,6 +1,6 @@
 ---
 title: "Code Review Aim"
-author: "S Windecker"
+author: "F Kar, S Windecker & participants of SORTEE Unconference U07 and Hackathon H10 "
 date: "02/07/2021"
 output: html_document
 ---
@@ -9,4 +9,52 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## What is the aim of peer code review?
+# Unconference
+
+### Proposed timeline: 
+
+1. Ice-breaker                          (~5 mins)
+2. Breakout room discussion topic 1     (~5 mins)
+3. Regroup and summarise topic 1        (~5 - 10 mins)
+4. Breakout room discussion topic 2     (~5 mins)
+5. Regroup and summarise topic 2        (~5 - 10 mins)
+6. Breakout room discussion topic 3     (~5 mins)
+7. Regroup and summarise topic 3        (~5 - 10 mins)
+8. Summary and discuss items for Hackathon
+
+### Participants? (Name, affiliations, contact email)
+
+-
+-
+- 
+
+## *What* is the aim of peer code review?
+
+-
+-
+-
+
+## *Who* is code review geared towards? How can we make it inclusive?
+
+-
+-
+-
+
+## *When* should code review take place?
+
+-
+-
+-
+
+## *How* should code review be implemented? 
+
+- [Hackathon - right after this unconference!]
+-
+-
+-
+
+# Hackathon
+
+### Proposed:
+
+Breakout into groups (depending on participants), each group working on a component identified in Unconference

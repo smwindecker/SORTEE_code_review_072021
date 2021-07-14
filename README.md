@@ -22,3 +22,4 @@ Outline: Our aim is to come up with a rubric for peer code review and guidelines
 * [BES 2016 workshop to developed style guide](https://github.com/BES2016Workshop) 
 * [ROpenSci guide for software reviewers](https://devguide.ropensci.org/reviewerguide.html)
 * [ROpenSci software review template](https://devguide.ropensci.org/reviewtemplate.html#reviewtemplate) 
+* [OxfordCodeReview](https://github.com/OxfordCodeReviewNet/forum/blob/master/guidelines_for_reviewers.md) Thanks Malika Ihle
